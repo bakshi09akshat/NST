@@ -11,8 +11,8 @@ import io
 
 st.title("Neural Style Transfer with TensorFlow")
 
-st.write("TF Version: ", tf._version_)
-st.write("TF-Hub version: ", hub._version_)
+#st.write("TF Version: ", tf._version_)
+#st.write("TF-Hub version: ", hub._version_)
 
 def crop_center(image):
     """Returns a cropped square image."""
