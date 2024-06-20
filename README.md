@@ -10,26 +10,26 @@ This repository contains a Streamlit app that demonstrates Neural Style Transfer
 ## Installation
 
 1. Clone the repository:
-   '''bash
+  ```bash
    git clone <repository_url>
    cd <repository_name>
-   '''
+  ```
 
 2. Set up a virtual environment (optional but recommended):
 
-   '''bash
+  ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows, use venv\Scripts\activate
-   '''
+   ```
 
 4. Install Dependencies
-   '''bash
+   ```bash
    pip install requirements.txt
-   '''
+   ```
 
 ## Running app
 
 ##Run the streamlit file
-   '''bash
+   ```bash
    streamlit run main.py
-   '''
+   ```
