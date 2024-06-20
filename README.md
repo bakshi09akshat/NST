@@ -11,8 +11,8 @@ This repository contains a Streamlit app that demonstrates Neural Style Transfer
 
 1. Clone the repository:
   ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/bakshi09akshat/NST/tree/main
+   cd NST
   ```
 
 2. Set up a virtual environment (optional but recommended):
